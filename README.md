@@ -102,7 +102,7 @@ class CNN(nn.Module):
 
 ---
 
-## 🖼️ Preprocessing & Augmentasi Data
+##  Preprocessing & Augmentasi Data
 
 | Data Latih (Train)                     | Data Uji (Test)                |
 |-----------------------------------------|----------------------------------|
