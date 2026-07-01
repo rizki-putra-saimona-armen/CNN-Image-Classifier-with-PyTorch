@@ -124,7 +124,7 @@ Model dilatih menggunakan:
 Jalankan seluruh sel notebook secara berurutan, atau langsung via terminal:
 
 ```bash
-jupyter notebook Part_3_-CNN_with_Pytorch.ipynb
+jupyter notebook CNN with Pytorch.ipynb
 ```
 
 Selama training, Anda akan melihat:
