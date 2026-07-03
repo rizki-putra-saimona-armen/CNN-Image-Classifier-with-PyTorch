@@ -26,7 +26,7 @@ Cocok digunakan sebagai referensi belajar **Deep Learning berbasis PyTorch**, kh
 
 ```
 .
-├── Part_3_-CNN_with_Pytorch.ipynb   # Notebook utama
+├── CNN_with_Pytorch.ipynb   # Notebook utama
 ├── data/
 │   ├── train/                       # Dataset training (per-folder = per kelas)
 │   └── test/                        # Dataset testing (per-folder = per kelas)
